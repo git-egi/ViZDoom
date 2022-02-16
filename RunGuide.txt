@@ -1,0 +1,14 @@
+Step 1 
+Make sure you have Python installed ( Tested with Python 3.8 )
+
+Step 2
+Navigate to the project folder
+
+Step 3
+Download the required packages included in requirements.txt
+This can be done by the following command :
+python -m pip install -r requirements.txt
+
+Step 4
+navigate to DEFEND_THE_LINE folder and run the following command :
+py vizdoom_defend_the_line.py
